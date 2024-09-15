@@ -280,13 +280,13 @@ footer {
 
 @media (max-width: 480px) {
     .profile-picture-strike {
-        width: 62px;
-        height: 62px;
+        width: 72px;
+        height: 72px;
     }
 
     .profile-picture img {
-        width: 56px;
-        height: 56px;
+        width: 66px;
+        height: 66px;
     }
 
     .profile-info h1 {
